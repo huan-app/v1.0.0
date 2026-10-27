@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>//</loc>
+    </url>
+    <url>
+        <loc>//docs/</loc>
+    </url>
+    <url>
+        <loc>//docs/getting-started/</loc>
+    </url>
+    <url>
+        <loc>//docs/getting-started/installation/</loc>
+    </url>
+    <url>
+        <loc>//docs/getting-started/quick-start/</loc>
+    </url>
+    <url>
+        <loc>//docs/guides/</loc>
+    </url>
+    <url>
+        <loc>//docs/guides/navigation/</loc>
+    </url>
+    <url>
+        <loc>//help/</loc>
+    </url>
+    <url>
+        <loc>//help/faq/</loc>
+    </url>
+    <url>
+        <loc>//help/privacy-policy/</loc>
+    </url>
+</urlset>

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "splash": {
+        "weight": 1280,
+        "height": 768,
+        "messages": [
+            {
+                "level": "warn",
+                "content": "当前版本只维护到2026/05/05"
+            }
+        ],
+        "pages": []
+    }
+}
